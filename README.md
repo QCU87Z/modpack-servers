@@ -1,6 +1,6 @@
 # Minecraft Modpack Docker Images
 
-> FORKED
+> FORKED So I can add my own packs
 
 ![Build and Publish](https://github.com/curseforge-docker/modpack-servers/workflows/Build%20and%20Publish/badge.svg)
   
